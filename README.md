@@ -1,2 +1,2 @@
 # first-github
-practicing github for the first time
+Practicing github for the first time.
